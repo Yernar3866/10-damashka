@@ -18,7 +18,4 @@ class  AudioSystem
     public void SetVolume(int volume) => Console.WriteLine("Audiosystema: gromkost na {volume");
 
 }
- class DVDPlayer
-{
-    public void Play
-}
+ 
